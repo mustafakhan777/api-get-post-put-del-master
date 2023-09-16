@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.comments{
+    height:200px;
+    width:50%;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-top:20px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.head{
+    color: #32a927;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 600;
+
+}
